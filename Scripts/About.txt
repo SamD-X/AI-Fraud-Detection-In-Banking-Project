@@ -1,0 +1,3 @@
+About AI-Based Fraud Detection in Banking Project
+
+This is my MCA project to find fraud in credit card transactions using AI. I used Python with tools like pandas, scikit-learn, and matplotlib. The project uses Logistic Regression and SMOTE to balance the data. I changed the threshold to 0.999 to make the model better. The final F1 score is 77.51%, which means it catches most frauds with fewer mistakes. The project includes code files in the scripts/ folder and pictures (like graphs) in the outputs/ folder. You can download the data (creditcard.csv) from Kaggle to run the project.
